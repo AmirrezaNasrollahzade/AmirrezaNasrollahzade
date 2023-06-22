@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmirrezaNasrollahzade
 - 👀 I’m interested in Programming
 - 💻 I’m Flutter Programmer
-- 🌱 I'm currently learning Node Js 
+- 🌱 I'm currently learning Django 
 
 <!---
 AmirrezaNasrollahzade/AmirrezaNasrollahzade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

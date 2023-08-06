@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([https://github.com/onimur](https://github.com/AmirrezaNasrollahzade))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](amirreza.azarmjo23@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](https://t.me/Call_me_Amirreza)
+[![Telegram](https://img.shields.io/badge/-Telegram-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](https://t.me/Call_me_Amirreza)
 
 
 - 👋 Hi, I’m @

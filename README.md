@@ -30,7 +30,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <br />
@@ -52,7 +52,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<!-- <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p> -->
 
 <!---
 AmirrezaNasrollahzade/AmirrezaNasrollahzade is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.

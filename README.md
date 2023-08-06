@@ -10,9 +10,7 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](amirreza.azarmjo23@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-0078D4?style=flat&logo=Telegramk&logoColor=white)](https://t.me/Call_me_Amirreza)
 
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
-</p>
+
 
 - 👀 I’m interested in Programming.
 - 💰 I love Business.
@@ -51,6 +49,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 </p>
 
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
+</p>
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great

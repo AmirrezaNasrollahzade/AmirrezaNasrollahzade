@@ -5,7 +5,7 @@
 - 🌱 Do you need a computer or laptop?   🎉 Visit our website (https://pcaspian.ir)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaNasrollahzade&hide_progress=true&layout=pie&theme=transparent)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirrezaNasrollahzade&theme=dark&showicons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaNasrollahzade&hide_progress=true&layout=pie&theme=transparent)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirrezaNasrollahzade&theme=dark&layout=compact&langs_count=8&card_width=320&showicons=true)
 
 
 

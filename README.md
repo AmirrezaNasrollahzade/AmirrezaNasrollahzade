@@ -11,7 +11,6 @@ You can use the website to generate badges: https://shields.io/
 [![Telegram](https://img.shields.io/badge/-Telegram-0078D4?style=flat&logo=Telegramk&logoColor=white)](https://t.me/Call_me_Amirreza)
 
 
-- 👋 Hi, I’m @
 - 👀 I’m interested in Programming.
 - 💰 I love Business.
 - 💻 I’m a mobile developer.

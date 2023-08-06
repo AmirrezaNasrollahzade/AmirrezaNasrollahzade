@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaNasrollahzade&hide_progress=true&layout=pie&theme=transparent)     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirrezaNasrollahzade&show_icons=true&bg_color=00000000&rank_icon=github)  
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
 
 **Languages and Tools:** 
 
@@ -52,7 +52,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
-
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 <!---
 AmirrezaNasrollahzade/AmirrezaNasrollahzade is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.

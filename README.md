@@ -5,10 +5,10 @@
 - 🌱 Do you need a computer or laptop?   🎉 Visit our website (https://pcaspian.ir)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaNasrollahzade&hide_progress=true&layout=pie&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaNasrollahzade&hide_progress=true&layout=pie&theme=transparent)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirrezaNasrollahzade&theme=dark&show_icons=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 
 <!---
 AmirrezaNasrollahzade/AmirrezaNasrollahzade is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.

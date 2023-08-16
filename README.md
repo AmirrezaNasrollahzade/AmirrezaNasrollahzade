@@ -44,7 +44,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/hive/hive-ar21.svg"></code>
-  <code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiK_oDYg58NKpQEi2jihm_yRNJzbtppu4AyMAO_GFaBvlO7CoTt0WuZLkdub87o4-q5KM&usqp=CAU"></code>
+  <code><img width="10%" src="www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
